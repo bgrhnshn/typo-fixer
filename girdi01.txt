@@ -1,0 +1,2 @@
+110,Ali Cetin,MuhendislikFakultesi
+Imagine a mechanical turtle that walks around the room under full-text con-trol the control of a Java. The turtle holds a pen in one of two positions, up or down. The default position is up.
